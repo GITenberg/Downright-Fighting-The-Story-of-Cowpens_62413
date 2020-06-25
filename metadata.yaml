@@ -1,0 +1,30 @@
+_repo: Downright-Fighting-The-Story-of-Cowpens_62413
+_version: 0.0.1
+alternative_title: 'Cowpens: Official National Park Handbook'
+creator:
+  author:
+    agent_name: Fleming, Thomas J.
+    birthdate: 1927
+    deathdate: 2017
+    gutenberg_agent_id: '51933'
+    url: http://www.gutenberg.org/2009/agents/51933
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Fleming_(historian)
+description: ''
+gutenberg_issued: '2020-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62413'
+  lccn: '87600142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Handbook (United States. National Park Service. Division of Publications);
+  135.
+subjects:
+- !lcc 'E201'
+- !lcsh 'Cowpens, Battle of, Cowpens, S.C., 1781'
+- !lcsh 'Cowpens National Battlefield (S.C.)'
+- GITenberg
+title: '"Downright Fighting": The Story of Cowpens'
+url: http://www.gutenberg.org/ebooks/62413
